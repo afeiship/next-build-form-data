@@ -8,5 +8,11 @@ npm install -S afeiship/next-build-form-data --registry=https://registry.npm.tao
 
 ## usage
 ```js
-//DOCS here!
+import nxBuildFormData from 'next-build-form-data';
+
+// key values
+nxBuildFormData({
+  k1: 'image',
+  k2: 'v2'
+})
 ```
