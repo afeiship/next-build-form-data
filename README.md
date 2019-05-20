@@ -1,5 +1,5 @@
 # next-build-form-data
-> Build formData by object
+> Build formData by object.
 
 ## installation
 ```bash

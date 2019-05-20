@@ -1,7 +1,7 @@
 {
   "name": "next-build-form-data",
   "version": "1.0.0",
-  "description": "Build formData by object",
+  "description": "Build formData by object.",
   "homepage": "https://github.com/afeiship/next-build-form-data",
   "author": {
     "name": "afei",

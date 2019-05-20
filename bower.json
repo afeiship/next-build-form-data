@@ -1,7 +1,7 @@
 {
   "name": "next-build-form-data",
-  "version": "0.0.1",
-  "description": "Build formData by object",
+  "version": "1.0.0",
+  "description": "Build formData by object.",
   "main": "dist/next-build-form-data.js",
   "authors": [
     "afei"
