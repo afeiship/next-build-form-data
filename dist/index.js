@@ -3,7 +3,7 @@
  * description: Build formData from object.
  * homepage: https://github.com/afeiship/next-data2form
  * version: 1.0.0
- * date: 2020-12-23 18:38:39
+ * date: 2020-12-23 18:39:32
  * license: MIT
  */
 
