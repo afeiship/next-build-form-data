@@ -2,8 +2,8 @@
  * name: @jswork/next-data2form
  * description: Build formData from object.
  * homepage: https://github.com/afeiship/next-data2form
- * version: 1.0.0
- * date: 2020-12-23 18:39:32
+ * version: 1.0.1
+ * date: 2021-01-09 16:15:38
  * license: MIT
  */
 
